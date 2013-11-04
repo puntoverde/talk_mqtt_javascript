@@ -4,9 +4,9 @@ How to use the Internet of Things for logging messages with MQTT in Javascript
 Slides of my ViennaJS-Talk in October 2013.
 
 * Example of the Internet of Things: Homeautomation - Temperature measurement 
-* MQTT the procotol of the Internet of Things
+* MQTT the protocol for the Internet of Things
 * Message distribution with MQTT to a message server (MQ-Server).
-+ Demonstration of a proof of concept for the MQ-System for remote debugging and logging in Javascript.
+* Demonstration of a proof of concept of the MQ-System for remote debugging and logging in Javascript.
 
 Requirements
 ------------
